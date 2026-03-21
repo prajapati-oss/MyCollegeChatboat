@@ -2,8 +2,9 @@ streamlit==1.45.1
 pillow==10.4.0
 
 supabase==2.3.4
-httpx==0.25.2   
-
+ 
+httpx==0.25.2      
+httpcore==0.18.0     
 streamlit-mic-recorder==0.0.8
 
 langchain==0.2.16
