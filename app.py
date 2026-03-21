@@ -5,7 +5,7 @@ import asyncio
 
 from supabase import create_client
 import base64
-from streamlit_mic_recorder import mic_recorder
+
 
 import tempfile
 
